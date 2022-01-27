@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"    android:orientation="vertical"
+    android:id="@+id/ll_parent_container"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".OnlinePlayerActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <FrameLayout
+            android:id="@+id/frame_layout_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.exoplayer2.ui.PlayerView
+                android:id="@+id/player_view"
+                app:controller_layout_id="@layout/online_player_custom_control"
+                app:hide_on_touch="true"
+                app:resize_mode="fit"
+                app:keep_content_on_player_reset="false"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"/>
+
+            <ProgressBar
+                android:id="@+id/loading_exoplayer"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+        <LinearLayout
+            android:padding="@dimen/_2sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:id="@+id/ll_download_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+
+
+            <ProgressBar
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:id="@+id/progress_horizontal_percentage"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3sdp"
+                android:indeterminate="false"
+                android:maxHeight="10dip"
+                android:minHeight="10dip"
+                android:progress="50"
+                android:progressDrawable="@drawable/progress_exo_downloaded" />
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
+
+

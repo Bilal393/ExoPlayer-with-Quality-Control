@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.sdp:sdp-android:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/5dae44c5b9ab71a8f530a2865e78f286/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/5dae44c5b9ab71a8f530a2865e78f286/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/da3dcd73a4bcc5b0aef567bc5054402a/transformed/jetified-sdp-android-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da3dcd73a4bcc5b0aef567bc5054402a/transformed/jetified-sdp-android-1.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da3dcd73a4bcc5b0aef567bc5054402a/transformed/jetified-sdp-android-1.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

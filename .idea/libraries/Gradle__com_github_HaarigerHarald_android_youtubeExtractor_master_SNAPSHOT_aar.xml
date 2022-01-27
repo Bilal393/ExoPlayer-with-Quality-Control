@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-android-youtubeExtractor-master-SNAPSHOT.aar/e928bf1dddcd07198303c4d61547500e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-android-youtubeExtractor-master-SNAPSHOT.aar/e928bf1dddcd07198303c4d61547500e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99ce9b5cccb10cc738d2d5e68bdb7a71/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99ce9b5cccb10cc738d2d5e68bdb7a71/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/99ce9b5cccb10cc738d2d5e68bdb7a71/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6ca7da5f37f921679a453a712e2c5edc/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6ca7da5f37f921679a453a712e2c5edc/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6ca7da5f37f921679a453a712e2c5edc/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2539057851c81a82e07c78c036e3ad41/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2539057851c81a82e07c78c036e3ad41/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2539057851c81a82e07c78c036e3ad41/transformed/jetified-android-youtubeExtractor-master-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/77622ecee2cf366eead978d195d37689dbd751a5/android-youtubeExtractor-master-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/7462e45f5b36d39e76ca525144f5765a1560114c/android-youtubeExtractor-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
